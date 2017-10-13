@@ -99,3 +99,4 @@ ENV/
 
 # mypy
 .mypy_cache/
+Data Samples/Converted Adsb/14_06_16_converted.csv
